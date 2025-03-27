@@ -7,14 +7,7 @@
 
 - 🔭 I'm currently working on **Developing autonomous agents**
 
-- 💬 Ask me about
-- **🚀 Machine Learning & AI Deployment
-📊 Data Science & Analytics
-☁️ AWS SageMaker & Cloud Infrastructure
-🛠️ Backend Development & API Design
-🐍 Python, SQL, and Scalable ETL Pipelines
-🧠 Compliance Risk & Fraud Detection
-📈 Model Optimization & A/B Testing
+- 💬 Ask me about **🚀 Machine Learning & AI Deployment 📊 Data Science & Analytics ☁️ AWS SageMaker & Cloud Infrastructure 🛠️ Backend Development & API Design 🐍 Python, SQL, and Scalable ETL Pipelines 🧠 Compliance Risk & Fraud Detection 📈 Model Optimization & A/B Testing
 🔗 Containerization (Docker, Kubernetes)**
 
 - 📫 How to reach me **benderounak10@gmail.com**
